@@ -1,0 +1,12 @@
+.image{
+    width: 50%;
+}
+.netflix-card{
+    width: 40%;
+   
+
+}
+.content{
+    display: flex;
+    width: 40%;
+}

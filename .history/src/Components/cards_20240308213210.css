@@ -1,0 +1,36 @@
+.image img{
+    width:20rem;
+    height: 100%;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius:10px;
+
+}
+.image{
+    background: linear-gradient(45deg, black);
+}
+.netflix-card{
+    width: 70%;
+    height: 10rem;
+   background-color: black;
+   color: white;
+margin-bottom: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+margin-left: 10rem;
+}
+.content{
+    display: flex;
+
+    justify-content: space-between;
+    gap: 20rem;
+    
+    
+}
+.profile img{
+    width:5rem;
+    height: 5rem;
+     margin-top: 5px;
+}
+.profile{
+    width: 100%;
+}
